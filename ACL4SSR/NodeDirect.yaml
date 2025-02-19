@@ -1,0 +1,17 @@
+﻿payload:
+  # ld
+  - PROCESS-NAME,dnplayer.exe
+  - PROCESS-NAME,Ld9BoxHeadless.exe
+  - PROCESS-NAME,Ld9BoxSVC.exe
+  - PROCESS-NAME,ldnews.exe
+  - PROCESS-NAME,ldremote.exe
+  - PROCESS-NAME,ldremoteevent.exe
+  - PROCESS-NAME,ldremoteservice.exe
+  # ToDesk
+  - PROCESS-NAME,ToDesk.exe
+  - DOMAIN-SUFFIX,todesk.com
+  # lonely
+  - DOMAIN-SUFFIX,lonelydespair.top
+  - PROCESS-NAME,yidongbangong.exe
+  # 可可影视
+  - PROCESS-NAME,可可影视.exe,DIRECT

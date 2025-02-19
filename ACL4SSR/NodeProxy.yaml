@@ -1,0 +1,31 @@
+﻿payload:
+  # jiancefanyi
+  - DOMAIN,translate.googleapis.com
+  - DOMAIN,translate.google.com
+  # pi
+  - DOMAIN-SUFFIX,minepi.com
+  - PROCESS-NAME,Pi Network.exe
+  - DOMAIN-SUFFIX,pi-node.cn
+  - PROCESS-NAME,Pi Node Manager 1.2.3.1.exe
+  # 4K
+  - DOMAIN-SUFFIX,4ksg.vip
+  - DOMAIN-SUFFIX,fd80s.com
+  # github
+  - DOMAIN-SUFFIX,githubusercontent.com
+  - DOMAIN-SUFFIX,github.com
+  - DOMAIN-SUFFIX,id9.cc
+  - DOMAIN-SUFFIX,423down.com
+  # ChatGPT：ChatGPT
+  - PROCESS-NAME,ChatGPT.exe
+  - DOMAIN-SUFFIX,openai.com
+  # 可可影视
+  - DST-PORT,11300
+  - DST-PORT,11301
+  - DST-PORT,15001
+  - DST-PORT,15002
+
+
+
+
+
+
